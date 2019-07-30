@@ -29,3 +29,5 @@
 ### 1. [Multithreading & Streams](https://github.com/tavisca-skadiri/multithreading)
 
 ### 2. [WebSocket ChatApp](https://github.com/tavisca-skadiri/ChatApp)
+
+### 3. [Console ChatApp](https://github.com/tavisca-skadiri/SocketChatApp)
