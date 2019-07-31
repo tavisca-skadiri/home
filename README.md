@@ -31,3 +31,5 @@
 ### 2. [WebSocket ChatApp](https://github.com/tavisca-skadiri/ChatApp)
 
 ### 3. [Console ChatApp](https://github.com/tavisca-skadiri/SocketChatApp)
+
+### 4. [Mutithreaded HTTP Socket](https://github.com/tavisca-skadiri/MultithreadedHttpSockets)
