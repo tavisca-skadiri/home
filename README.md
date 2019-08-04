@@ -32,4 +32,6 @@
 
 ### 3. [Console ChatApp](https://github.com/tavisca-skadiri/SocketChatApp)
 
-### 4. [Mutithreaded HTTP Socket](https://github.com/tavisca-skadiri/MultithreadedHttpSockets)
+### 4. [Mutithreaded HTTP Socket](https://github.com/tavisca-skadiri/MultithreadedTcpSockets)
+
+### 5. [Servlet and Jsp Demo](https://github.com/tavisca-skadiri/ServletDemo)
