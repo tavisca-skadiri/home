@@ -35,3 +35,17 @@
 ### 4. [Mutithreaded HTTP Socket](https://github.com/tavisca-skadiri/MultithreadedTcpSockets)
 
 ### 5. [Servlet and Jsp Demo](https://github.com/tavisca-skadiri/ServletDemo)
+
+
+
+## CI/CD
+
+### 1. [Merchant of Galaxy - Jenkins Assignment](https://github.com/tavisca-skadiri/mog_docker)
+
+
+
+## UI
+
+### 1. [Navbar & Dropdown](https://github.com/tavisca-skadiri/UI-1-Navbar-Dropdown)
+
+### 2. [Todo Assignment](https://github.com/tavisca-skadiri/UI-Todo)
