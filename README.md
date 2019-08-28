@@ -40,7 +40,7 @@
 
 ## CI/CD
 
-### 1. [Merchant of Galaxy - Jenkins Assignment](https://github.com/tavisca-skadiri/mog_docker)
+### 1. [Merchant of Galaxy - Jenkins Pipeline](https://github.com/tavisca-skadiri/mog_docker)
 
 
 
@@ -48,4 +48,6 @@
 
 ### 1. [Navbar & Dropdown](https://github.com/tavisca-skadiri/UI-1-Navbar-Dropdown)
 
-### 2. [Todo Assignment](https://github.com/tavisca-skadiri/UI-Todo)
+### 2. [Todo App](https://github.com/tavisca-skadiri/UI-Todo)
+
+### 3. [Userlist App - React](https://github.com/tavisca-skadiri/UI-React-UserList)
