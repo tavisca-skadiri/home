@@ -51,3 +51,8 @@
 ### 2. [Todo App](https://github.com/tavisca-skadiri/UI-Todo)
 
 ### 3. [Userlist App - React](https://github.com/tavisca-skadiri/UI-React-UserList)
+
+## Web API
+
+### 1. [TodoApp with Rest API using Spring Boot](https://github.com/tavisca-skadiri/Todo-Rest-Api)
+
