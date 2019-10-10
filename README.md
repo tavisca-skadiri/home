@@ -52,7 +52,12 @@
 
 ### 3. [Userlist App - React](https://github.com/tavisca-skadiri/UI-React-UserList)
 
+### 4. [Todo App - Angular](https://github.com/tavisca-skadiri/UI-Angular-TodoApp)
+
+
+
 ## Web API
 
 ### 1. [TodoApp with Rest API using Spring Boot](https://github.com/tavisca-skadiri/Todo-Rest-Api)
 
+### 2. [Data Manipulations](https://github.com/tavisca-skadiri/DataManipulations)
