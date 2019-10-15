@@ -61,3 +61,8 @@
 ### 1. [TodoApp with Rest API using Spring Boot](https://github.com/tavisca-skadiri/Todo-Rest-Api)
 
 ### 2. [Data Manipulations](https://github.com/tavisca-skadiri/DataManipulations)
+
+### 3. [Spring Security](https://github.com/tavisca-skadiri/SpringSecurity)
+
+### 3. [Spring Microservices](https://github.com/tavisca-skadiri/SpringMicroservices)
+
