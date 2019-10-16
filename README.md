@@ -58,11 +58,13 @@
 
 ## Web API
 
-### 1. [TodoApp with Rest API using Spring Boot](https://github.com/tavisca-skadiri/Todo-Rest-Api)
+### 1. [Spring TodoApp - Rest API](https://github.com/tavisca-skadiri/Todo-Rest-Api)
 
-### 2. [Data Manipulations](https://github.com/tavisca-skadiri/DataManipulations)
+### 2. [Spring TodoApp - GraphQL API](https://github.com/tavisca-skadiri/TodoApp-GraphQL)
 
-### 3. [Spring Security](https://github.com/tavisca-skadiri/SpringSecurity)
+### 3. [Spring Data Manipulations](https://github.com/tavisca-skadiri/DataManipulations)
 
-### 3. [Spring Microservices](https://github.com/tavisca-skadiri/SpringMicroservices)
+### 4. [Spring Security](https://github.com/tavisca-skadiri/SpringSecurity)
+
+### 5. [Spring Microservices](https://github.com/tavisca-skadiri/SpringMicroservices)
 
